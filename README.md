@@ -1,4 +1,4 @@
-# Skin-Cancer-Prediction
+# Skin-Cancer-Detection
 This project focuses on the detection and classification of skin lesions as either cancerous or non-cancerous, addressing the growing global burden of skin cancer. Leveraging a publicly available dataset from Kaggle, I explored essential lesion features (e.g., texture, morphology, and color) that contribute to accurate diagnosis.
 
 📌 Key Objectives:
